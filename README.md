@@ -1,2 +1,2 @@
-##Learning about Version Control
+## Learning about Version Control
 author: Johnson Leung
